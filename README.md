@@ -16,7 +16,10 @@
 ---
 
 ## 💻 Sobre o projeto
-Esse projeto é um jogo de adivinhar o número secreto.
+Esse projeto é um jogo de adivinhar o número secreto. Quando você acerta o número, ele irá aparecer a página com esse fundo:
+
+<img width="1920" height="945" alt="jogosecreto" src="https://github.com/user-attachments/assets/78154d49-be70-4914-ab89-c7cb8fd6378e" />
+
 
 ---
 ## 🔌 Linguagens utilizadas
