@@ -29,5 +29,5 @@ Esse projeto é um jogo de adivinhar o número secreto utilizando <strong>Java S
 <img 
     alt="Alura" 
     title="Alura" 
-    src="https://img.shields.io/badge/Created%20with%20Alura's%20course-018CDB"
+    src="https://img.shields.io/badge/Created%20with%20Alura's%20course-1FBBA4"
 />
