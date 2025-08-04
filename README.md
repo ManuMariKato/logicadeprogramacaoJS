@@ -14,8 +14,9 @@
 </p>
 
 
+
 ## 💻 Sobre o projeto
-Esse projeto é um jogo de adivinhar o número secreto utilizando <strong>Java Script</strong>, <strong>HTML</strong>, <strong>CSS</strong>.
+Esse projeto é um jogo de adivinhar o número secreto.
 
 ---
 ## 🔌 Linguagens utilizadas
