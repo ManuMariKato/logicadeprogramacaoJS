@@ -13,7 +13,7 @@
     </a>
 </p>
 
-
+---
 
 ## 💻 Sobre o projeto
 Esse projeto é um jogo de adivinhar o número secreto.
