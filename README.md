@@ -8,7 +8,7 @@
           <img 
             alt="Release_date" 
             title="Release_date" 
-            src="https://img.shields.io/badge/Release date-August-red"
+            src="https://img.shields.io/badge/Release date-August-cyan"
         />
     </a>
 </p>
