@@ -3,12 +3,12 @@
         <img 
             alt="Process_completed" 
             title="Processo" 
-            src="https://img.shields.io/badge/Process-Completed-CAA0F5"
+            src="https://img.shields.io/badge/Process-Completed-AF9CDB"
         />
           <img 
             alt="Release_date" 
             title="Release_date" 
-            src="https://img.shields.io/badge/Release date-August-90A9F5"
+            src="https://img.shields.io/badge/Release date-August-9B82DC"
         />
     </a>
 </p>
@@ -33,5 +33,5 @@ Esse projeto é um jogo de adivinhar o número secreto. Quando você acerta o n�
 <img 
     alt="Alura" 
     title="Alura" 
-    src="https://img.shields.io/badge/Created%20with%20Alura's%20course-BA8FF5"
+    src="https://img.shields.io/badge/Created%20with%20Alura's%20course-A37FDB"
 />
